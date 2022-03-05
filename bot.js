@@ -10,7 +10,7 @@ richusir
 /
 WhatsAsenaDuplicated
 Public
-forked from mohamedxteamspeak/WhatsAsenaDuplicated
+forked from mohamedxteamspeak/WhatsAsenaDuplicated/
 0
 1121
 Code
