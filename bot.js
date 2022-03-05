@@ -8,9 +8,9 @@ Explore
 @richusir 
 richusir
 /
-RICHUSER_B1
+WhatsAsenaDuplicated
 Public
-forked from /mohamedxteamspeak/RICHUSER_B1
+forked from mohamedxteamspeak/WhatsAsenaDuplicated
 0
 1121
 Code
@@ -21,7 +21,7 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
+WhatsAsenaDuplicated/bot.js /
 @richusir
 richusir Create bot.js
 Latest commit 21d64e4 on 9 Aug
