@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
-@richusir 
-richusir
-/
-WhatsAsenaDuplicated
-Public
-forked from mohamedxteamspeak/WhatsAsenaDuplicated/
-0
-1121
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-WhatsAsenaDuplicated/bot.js /
-@richusir
-richusir Create bot.js
-Latest commit 21d64e4 on 9 Aug
- History
- 11 contributors
-@farhan-dqz@phaticusthiccy@yusufusta@richusir@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
-274 lines (239 sloc)  11.5 KB
-  
 /* Copyright (C) 2020 Yusuf Usnta.
 RECODDED BY richumlp
 Plk  
