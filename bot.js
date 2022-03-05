@@ -10,7 +10,7 @@ richusir
 /
 RICHUSER_B1
 Public
-forked from mohamedxteamspeak/RICHUSER_B1
+forked from /mohamedxteamspeak/RICHUSER_B1
 0
 1121
 Code
